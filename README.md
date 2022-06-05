@@ -20,3 +20,4 @@ You may need openbable, ADFR and vina already installed! Or you can simple open 
 cd tecovirimat
 bash +x all.sh
 ```
+![img](img/docking_pose.png)
